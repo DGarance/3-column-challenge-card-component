@@ -15,13 +15,13 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
-![Desktop Screenshot](./screenshot/screenshot_desktop.png)
-![Mobile Screenshot](./screenshot/screenshot_mobile.png)
+![Desktop Screenshot](./screenshot/screenshot_desktop.png) ![Mobile Screenshot](./screenshot/screenshot_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:
+  [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-3-column-card-component-8UgLbVEkdr)
+- Live Site URL: [Github Live](https://dgarance.github.io/3-column-challenge-card-component/)
 
 ### Built with
 
